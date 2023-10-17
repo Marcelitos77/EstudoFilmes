@@ -1,0 +1,27 @@
+body {
+    background: black;
+ 
+   
+}
+.titulo {
+    color: #464480;
+    text-align: center;
+}
+
+.cor1 {
+    background-color: #464480;
+}
+
+a {
+    text-align: center;
+    color: white;
+    
+}
+
+.col-md-3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
