@@ -1,6 +1,6 @@
 # Página Filmes
 
-Este é uma landpage de estudo na foi desenvolvido o efeito de onda em javascript, além de consolidar as técnicas em html e css.
+Este é uma landpage de estudo na foi desenvolvido em html e css.
 
 link: https://estudo-filmes.vercel.app/
 
