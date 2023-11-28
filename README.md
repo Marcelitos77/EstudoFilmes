@@ -1,6 +1,6 @@
 # Página Filmes
 
-Este é uma landpage de estudo na foi desenvolvido em html e css.
+Este é uma landpage de estudo desenvolvido em html e css.
 
 link: https://estudo-filmes.vercel.app/
 
